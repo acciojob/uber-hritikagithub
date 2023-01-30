@@ -9,3 +9,4 @@ import com.driver.model.Cab;
 public interface CabRepository extends JpaRepository<Cab, Integer> {
 
 }
+
