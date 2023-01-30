@@ -1,7 +1,7 @@
 package com.driver.model;
 
 import org.hibernate.engine.internal.Cascade;
-
+import com.driver.model.TripBooking;
 import javax.persistence.*;
 import java.util.ArrayList;
 import java.util.List;

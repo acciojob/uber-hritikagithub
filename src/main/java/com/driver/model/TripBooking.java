@@ -1,3 +1,4 @@
+package com.driver.model;
 import javax.persistence.Entity;
 
 import com.driver.model.Customer;
